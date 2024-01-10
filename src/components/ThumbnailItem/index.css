@@ -1,0 +1,14 @@
+/* Write your code here. */
+
+.container-card {
+}
+.thumb-btn {
+  outline: none;
+  border: none;
+}
+.thumb-image {
+  opacity: 0.5;
+}
+.thumbnail-active {
+  opacity: 1;
+}
